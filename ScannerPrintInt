@@ -1,0 +1,26 @@
+import java.util.*;
+
+public class ScannerPrintInt {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        //int a = scan.nextInt();
+        int a = 0;
+        //System.out.println(a);
+        // Complete this line
+        // Complete this line
+
+        //a = scan.nextInt();
+        //System.out.println(a);
+        
+        //a = scan.nextInt();
+        //System.out.println(a);
+        
+        while(scan.hasNextInt()){
+            a = scan.nextInt();
+            System.out.println(a);
+        }
+        // Complete this line
+        // Complete this line
+    }
+}
