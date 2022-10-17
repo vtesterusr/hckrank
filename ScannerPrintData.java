@@ -30,7 +30,7 @@ Int: 42
 
 import java.util.Scanner;
 
-public class Solution {
+public class ScannerPrintData {
 
     public static void main(String[] args) {
         
